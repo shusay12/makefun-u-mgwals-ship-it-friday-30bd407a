@@ -1,0 +1,5 @@
+# Keep the unpacked competition kit and build reports out of the repo.
+u-mgwals-ship-it-friday-30bd407a-kit/
+BUILD-REPORT.md
+__pycache__/
+*.pyc
